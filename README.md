@@ -1,4 +1,8 @@
-Este projeto foi elaborado como uma solução para o desafio proposto a todos que concluíram o Bootcamp TQI na plataforma da Digital Innovation One e promoveu um grande crescimento a nível de conhecimento em mim e nos outros participantes do Bootcamp. Experimentar uma pequena demanda do mercado real mostra como ainda temos espaço para evoluir e a vontade de finalizar o projeto como planejado foi maior do que a vontade pela entrega. Fomos movidos pelo desafio. 
+## Resultado 
+![image](https://user-images.githubusercontent.com/92220593/149550450-cc214287-a16b-4d1a-b640-a382893e5848.png)
+![image](https://user-images.githubusercontent.com/92220593/149550802-1c9f02f7-4891-47ec-84fd-4f3dc3de68db.png)
+![image](https://user-images.githubusercontent.com/92220593/149550882-a0918d1d-afe4-4029-b135-6307a26dfdf6.png)
+![image](https://user-images.githubusercontent.com/92220593/149551047-287944f4-948c-4d48-891f-1ed19415e425.png)
 
 ---
 **O desafio:**
