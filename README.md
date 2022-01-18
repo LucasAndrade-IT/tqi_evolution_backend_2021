@@ -48,8 +48,6 @@ https://github.com/MarceloAraujo14/cliente-config.git
 O Eureka da Netflix que por sua vez, permite que os microsserviços se "registrem" com seu endereço e possam ser encontrados pelo Gateway (nossa conexão com serviços externos) que funciona como um "portão" para as requisições, recebendo-as e buscando no Eureka o caminho do serviço especificado e devolvendo ao cliente que solicitou. 
 
 ---
-Vídeo demonstrando o funcionamento da interface da API
-https://youtu.be/uDQ6VBCfV34
 
 ---
   **End-points:**
